@@ -1,0 +1,39 @@
+Row Labels,Sum of Total Amount,,,
+Beauty,143515,,,
+Clothing,155580,,,
+Electronics,156905,,,
+Grand Total,456000,,,
+,,,,
+,,,,
+,,,,
+Row Labels,Sum of Quantity,,,
+Electronics,60,,,
+Clothing,60,,,
+Beauty,50,,,
+Grand Total,170,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Average of Age,Column Labels,,,
+Row Labels,Beauty,Clothing,Electronics,Grand Total
+Female,40.35542169,43.16666667,40.48235294,41.35686275
+Male,40.39007092,40.75141243,42.97674419,41.42857143
+Grand Total,40.3713355,41.94871795,41.73684211,41.392
+,,,,
+,,,,
+Sum of Total Amount,Column Labels,,,
+Row Labels,Beauty,Clothing,Electronics,Grand Total
+Jan,13930,13125,9925,36980
+Feb,14035,14560,15465,44060
+Mar,10545,15065,3380,28990
+Apr,11905,13940,8025,33870
+May,12450,17455,23245,53150
+Jun,10995,10170,15550,36715
+Jul,16090,8250,11125,35465
+Aug,9790,12455,14715,36960
+Sep,6320,9975,7325,23620
+Oct,15355,13315,17910,46580
+Nov,9700,15200,10020,34920
+Dec,12400,12070,20220,44690
+Grand Total,143515,155580,156905,456000
